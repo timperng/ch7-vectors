@@ -16,7 +16,7 @@ first.three <- z[1:3]
 small <- z[z < 5]
 
 # Create a vector `large` that has the values of `z` that are greater than or equal to 5
-large <- z[z > 5]
+large <- z[z >= 5]
 
 ### Bonus ###
 
